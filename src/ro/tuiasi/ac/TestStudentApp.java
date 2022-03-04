@@ -11,6 +11,7 @@ public class TestStudentApp {
 		Teacher t1 = new Teacher();
 		Teacher t2 = new Teacher(); //222
 		Teacher t3 = new Teacher(); //222
+        Teacher t10 = new Teacher(); //222
 		
 		System.out.println(s1);
 		s1.print3();
