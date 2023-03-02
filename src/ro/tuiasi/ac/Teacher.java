@@ -10,4 +10,10 @@ public class Teacher {
 
 		return "from Teacher";
 	}
+	
+	
+	public String toClassroom() {
+
+		return "from Teacher";
+	}
 }
