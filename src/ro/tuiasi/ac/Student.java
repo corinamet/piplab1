@@ -33,5 +33,16 @@ public class Student {
         void printPIPpr(){
 		int y = 10000;
 		System.out.println("de implementat print3 "+y);
+		
+		System.out.println("de implementat print3 "+y);
+		System.out.println("de implementat print3 "+y);
+		
+		System.out.println("de implementat print3 "+y);
+		System.out.println("de implementat print3 "+y);
+		System.out.println("de implementat print3 "+y);
+		System.out.println("de implementat print3 "+y);
+		
+		System.out.println("de implementat print3 "+y);
+		System.out.println("de implementat print3 "+y);
 	}
 }
