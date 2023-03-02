@@ -29,4 +29,9 @@ public class Student {
 		int y = 200;
 		System.out.println("de implementat print3 "+y);
 	}
+	
+        void printPIPpr(){
+		int y = 10000;
+		System.out.println("de implementat print3 "+y);
+	}
 }
