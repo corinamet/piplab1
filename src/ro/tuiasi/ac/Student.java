@@ -30,4 +30,8 @@ public class Student {
 		System.out.println("de implementat print3 "+y);
 	}
 	
+	void print100000() {
+		//sdfsdfsd
+	}
+	
 }
