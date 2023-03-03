@@ -34,4 +34,8 @@ public class Student {
 		//sdfsdfsd
 	}
 	
+	void print200000() {
+		System.out.println("sdfdsf");
+	}
+	
 }
