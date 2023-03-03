@@ -16,4 +16,10 @@ public class Teacher {
 
 		return "from Teacher";
 	}
+	
+		
+	public String toStudentPIP() {
+
+		return "from Teacher";
+	}
 }
