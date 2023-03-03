@@ -38,4 +38,8 @@ public class Student {
 		System.out.println("sdfdsf");
 	}
 	
+	void print900000() {
+		System.out.println("sdfdsf");
+	}
+	
 }
