@@ -12,6 +12,7 @@ public class TestStudentApp {
 		Student s5 = new Student(10,"QWE","Mihai");
 		
 		System.out.println(s1);
+		System.out.println(s4+" "+s5);
 		s1.print3();
 		s2.print3();
 		
