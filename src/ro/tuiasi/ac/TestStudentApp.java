@@ -9,6 +9,7 @@ public class TestStudentApp {
 		Student s2 = new Student(10,"Ionescu","Raluca");
 		Student s3 = new Student(9,"ANC","Raluca");
 		Student s4 = new Student(10,"QWE","Razvan");
+		Student s5 = new Student(10,"QWE","Mihai");
 		
 		System.out.println(s1);
 		s1.print3();
