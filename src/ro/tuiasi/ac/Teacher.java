@@ -1,5 +1,9 @@
 package ro.tuiasi.ac;
 
+
+/**
+Salut
+**/
 public class Teacher {
 	Teacher(){
 		System.out.println("Ctr. din Teacher");
