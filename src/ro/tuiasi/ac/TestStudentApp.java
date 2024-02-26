@@ -8,7 +8,7 @@ public class TestStudentApp {
 		Student s1 = new Student(10,"Popescu","Ionut");
 		Student s2 = new Student(10,"Ionescu","Raluca");
 		Student s3 = new Student(9,"ANC","Raluca");
-		Student s3 = new Student(10,"QWE","Razvan");
+		Student s4 = new Student(10,"QWE","Razvan");
 		
 		System.out.println(s1);
 		s1.print3();
